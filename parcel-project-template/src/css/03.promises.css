@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  max-width: 150px;
+}
+
+.input {
+  display: block;
+}
+
+.btn {
+  max-width: 150px;
+  height: 50%;
+  cursor: pointer;
+
+}
