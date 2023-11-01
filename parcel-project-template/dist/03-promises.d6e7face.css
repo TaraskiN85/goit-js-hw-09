@@ -1,0 +1,23 @@
+.form {
+  align-items: flex-end;
+  gap: 8px;
+  display: flex;
+}
+
+.label {
+  max-width: 150px;
+  flex-direction: column;
+  display: flex;
+}
+
+.input {
+  display: block;
+}
+
+.btn {
+  max-width: 150px;
+  height: 50%;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=03-promises.d6e7face.css.map */
